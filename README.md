@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # readme
 # simple Installation guide to install Wndows Server 2022 on VM
 1. go to https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=00990a88ead7652915f91c3feb656459 site and click on the ISO download to start downloading the iso image.
@@ -7,3 +8,7 @@
 
 ![iso image ](<images/Screenshot 2026-04-14 133022.png>)
 
+=======
+# Windows-Server-2022
+hands on windows server 2022 setup and explore for DevOps 
+>>>>>>> 62a12dcdf2a16f6cb8a70f31db7a4f9542380ff7
